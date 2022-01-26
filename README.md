@@ -1,2 +1,2 @@
-# agendadj
-proyecto agenda para curso profesional django
+# Agenda Django
+Proyecto profesional para la creación de una agenda con el framework Django.
